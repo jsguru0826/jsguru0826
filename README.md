@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sean Wei
+### Hi there 👋 I'm Alek Effertz
 - 🔭 I’m currently working at the [**axios**](https://devoteefforts.biz)
 - 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
