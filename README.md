@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Sean Wei
-- 🔭 I’m currently working at the [**Devote Efforts**](https://devoteefforts.biz)
+- 🔭 I’m currently working at the [**axios**](https://devoteefforts.biz)
 - 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
-- 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/sean-w-364b36211/)
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
 
